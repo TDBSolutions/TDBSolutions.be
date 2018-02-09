@@ -1,0 +1,44 @@
+:root {
+    --main-color-brown: #442F25;
+    --main-color-background: #DEDDDA;
+}
+
+body {
+    background-color: var(--main-color-background);
+    font-size: 12pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: var(--main-color-brown);
+    margin: 0px;
+}
+
+header {
+    position: fixed;
+    height: 350px;
+    width: 1280px;
+    background-image: url("../content/images/header/header_bg.png");
+}
+
+div#logo {
+    position: fixed;
+    left: 29px;
+    width: 240px;
+    height: 220px;
+    display: inline-block;
+    background-image: url("../content/images/header/bg_logo_big.png");
+    text-align: center;
+}
+
+div#contactMenu {
+    position: fixed;
+    left: 1150px;
+    vertical-align: top;
+    width: 101px;
+    height: 24px;
+    display: inline-block;
+    background-image: url("../content/images/header/contact_button.png");
+}
+
+image#logo {
+    width: 200px;
+    height: 197px;
+}
