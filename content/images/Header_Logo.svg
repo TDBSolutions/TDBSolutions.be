@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 44 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Logo_PlaceHolder">
+        <path id="BG_Logo" d="M43.36,34.048l0,-34.048l-43.2,0l0,34.048c0,3.064 2.904,5.552 6.48,5.552l30.24,0c3.577,0 6.48,-2.488 6.48,-5.552Z" style="fill:#deddda;"/>
+        <g id="Logo">
+            <g id="Text">
+                <g id="Solutions">
+                    <text x="19.416px" y="35.302px" style="font-family:'Calibri', sans-serif;font-size:4px;fill:#e38633;stroke:#e38633;stroke-width:0.18px;">SOLUTIONS</text>
+                </g>
+                <g id="TDB">
+                    <g transform="matrix(0.0175108,0,0,0.0175108,0.385845,-10.481)">
+                        <text x="289.317px" y="2643.3px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:302.925px;fill:#442f25;">T</text>
+                        <text x="474.355px" y="2643.3px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:302.925px;fill:#442f25;">DB</text>
+                    </g>
+                    <path id="Kader" d="M17.734,32.354c0,-0.858 -0.696,-1.555 -1.554,-1.555l-10.708,0c-0.858,0 -1.554,0.697 -1.554,1.555l0,3.108c0,0.858 0.696,1.555 1.554,1.555l10.708,0c0.858,0 1.554,-0.697 1.554,-1.555l0,-3.108Z" style="fill:none;stroke:#442f25;stroke-width:0.94px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g id="Bollen">
+                <ellipse id="LO4" cx="21.08" cy="19.065" rx="0.911" ry="0.906" style="fill:#f7decd;"/>
+                <ellipse id="LO3" cx="17.301" cy="20.003" rx="1.316" ry="1.336" style="fill:#f3c593;"/>
+                <ellipse id="L02" cx="12.742" cy="21.824" rx="1.965" ry="2.014" style="fill:#e38633;"/>
+                <ellipse id="LO1" cx="7.72" cy="26.223" rx="3.086" ry="3.047" style="fill:#cb5e27;"/>
+                <ellipse id="RO4" cx="21.709" cy="21.715" rx="0.941" ry="0.917" style="fill:#c3a790;"/>
+                <ellipse id="RO3" cx="24.928" cy="23.767" rx="1.264" ry="1.248" style="fill:#716d5d;"/>
+                <ellipse id="RO2" cx="29.452" cy="25.719" rx="1.866" ry="1.954" style="fill:#60433a;"/>
+                <ellipse id="RO1" cx="36.118" cy="26.169" rx="3.027" ry="2.939" style="fill:#442f25;"/>
+                <ellipse id="RB4" cx="23.98" cy="19.601" rx="0.858" ry="0.809" style="fill:#e3bea8;"/>
+                <ellipse id="RB3" cx="24.733" cy="16.018" rx="1.263" ry="1.314" style="fill:#cfa784;"/>
+                <ellipse id="RB2" cx="25.015" cy="11.059" rx="1.866" ry="1.882" style="fill:#996844;"/>
+                <ellipse id="RB1" cx="23.312" cy="4.569" rx="3.019" ry="3.008" style="fill:#633021;"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,6 +1,7 @@
 :root {
     --main-color-brown: #442F25;
-    --main-color-background: #DEDDDA;
+    --main-color-background: #442F25;
+    --main-color-background2: #DEDDDA;
 }
 
 body {
@@ -8,37 +9,35 @@ body {
     font-size: 12pt;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: var(--main-color-brown);
-    margin: 0px;
 }
 
-header {
-    position: fixed;
-    height: 350px;
-    width: 1280px;
-    background-image: url("../content/images/header/header_bg.png");
+div.tdb-hero {
+    height: 500px;
 }
 
-div#logo {
-    position: fixed;
-    left: 29px;
-    width: 240px;
-    height: 220px;
-    display: inline-block;
-    background-image: url("../content/images/header/bg_logo_big.png");
+div.tdb-hero-bg {
+    background-image: url("../content/images/hero.svg");
+    background-size: cover;
+}
+
+div.tdb-hero-bg_logo {
+    background-image: url("../content/images/header_logo.svg");
+    height: 219px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+div.tdb-hero-bg_contact {
+    background-image: url("../content/images/header_Contact.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+div.filler {
+    height: 2000px;
+}
+
+div.tdb-footer-text {
     text-align: center;
-}
-
-div#contactMenu {
-    position: fixed;
-    left: 1150px;
-    vertical-align: top;
-    width: 101px;
-    height: 24px;
-    display: inline-block;
-    background-image: url("../content/images/header/contact_button.png");
-}
-
-image#logo {
-    width: 200px;
-    height: 197px;
+    padding-bottom: 10px;
 }
